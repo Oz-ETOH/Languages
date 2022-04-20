@@ -1,0 +1,14 @@
+{
+    "Confirm": {
+        "Warning": "Attention !",
+        "DeleteMsg": "Confirmer la suppression ?",
+        "ConfirmMsg": "Confirmer l'action ?",
+        "LeaveMsg": "Vous êtes sur le point de quitter cette page sans sauvegarder vos modifications ! Êtes vous sûr ?",
+        "Confirm": "Confirmer",
+        "Delete": "Supprimer",
+        "Quit": "Quitter",
+        "Stay": "Rester",
+        "Cancel": "Annuler",
+        "Required": "Ce champ est requis"
+    }
+}

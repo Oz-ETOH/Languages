@@ -307,7 +307,7 @@
       "taste_name": "Nom du goût",
       "terroir": "Terroir",
       "time_instant_hint": "0 pour service instantané",
-      "varieties": "Variétés",
+      "varieties": "Cépages",
       "variety": "Cépage",
       "variety_hint": "0 pour cacher",
       "variety_name": "Nom du cépage",

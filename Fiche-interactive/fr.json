@@ -53,9 +53,12 @@
     "Delete": "Supprimer",
     "DeleteMsg": "Confirmer la suppression ?",
     "LeaveMsg": "Vous êtes sur le point de quitter cette page sans sauvegarder vos modifications ! Êtes vous sûr ?",
+    "Visualize": "Visualiser",
+    "Lock": "Bloquer",
     "Quit": "Quitter",
     "Required": "Ce champ est requis",
     "Stay": "Rester",
+    "Go_to_app": "Voulez bloquer l'application en mode présentation des vins ? (Il ne sera plus possible de revenir au backoffice sans mot de passe)",
     "Warning": "Attention !"
   },
   "custom": {
@@ -330,6 +333,7 @@
       "search": "Rechercher un vin",
       "subtitle": "Ajoutez, modifiez, ou archivez un vin.",
       "title": "Liste des vins",
+      "limit": "Votre abonnement '{{sub}}' vous permet d'ajouter jusqu'à {{limit}} vins",
       "wines_imported": "Votre liste de vins a bien été importée."
     },
     "select": {
@@ -347,5 +351,8 @@
   "politics": "Politique de confidentialité",
   "second": "seconde",
   "seconds": "secondes",
-  "wines": "vins"
+  "wines": "vins",
+  "mini": "Mini",
+  "magnum": "Magnum",
+  "jeroboam": "Jeroboam"
 }

@@ -53,9 +53,12 @@
     "Delete": "To delete",
     "DeleteMsg": "Confirm the deletion?",
     "LeaveMsg": "You are about to leave this page without saving your changes! Are you sure ?",
+    "Visualize": "Visualize",
+    "Lock": "Lock",
     "Quit": "Quit",
     "Required": "This field is required",
     "Stay": "To stay",
+    "Go_to_app": "Do you want to block the application in presentation mode? (It will no longer be possible to return to the backoffice without password)",
     "Warning": "Attention !"
   },
   "custom": {
@@ -330,6 +333,7 @@
       "search": "Search for a wine",
       "subtitle": "Add, change, or archive a wine.",
       "title": "Wine list",
+      "limit": "Your '{{sub}}' subscription allows you to add up to {{limit}} wines",
       "wines_imported": "Your wine list has been imported."
     },
     "select": {
@@ -347,5 +351,8 @@
   "politics": "Privacy Policy",
   "second": "second",
   "seconds": "seconds",
-  "wines": "wines"
-}
+  "wines": "wines",
+  "mini": "Mini",
+  "magnum": "Magnum",
+  "jeroboam": "Jeroboam"
+} 

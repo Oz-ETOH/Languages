@@ -2,7 +2,7 @@
   "account": {
     "email": "E-mail",
     "firstname": "First name",
-    "lastname": "name",
+    "lastname": "Last name",
     "profile": "Profile",
     "profile_s": "Change your personal information"
   },
@@ -31,7 +31,7 @@
     "archive": "Archive",
     "cancel": "Cancel",
     "characters_left": "remaining characters",
-    "delete": "To delete",
+    "delete": "Delete",
     "duplicate": "Duplicate",
     "edit": "Edit",
     "img_delete": "Delete the photo",
@@ -50,14 +50,14 @@
     "Cancel": "Cancel",
     "Confirm": "Confirm",
     "ConfirmMsg": "Confirm the action?",
-    "Delete": "To delete",
+    "Delete": "Delete",
     "DeleteMsg": "Confirm the deletion?",
     "LeaveMsg": "You are about to leave this page without saving your changes! Are you sure ?",
     "Visualize": "Visualize",
     "Lock": "Lock",
-    "Quit": "Quit",
+    "Quit": "Leave",
     "Required": "This field is required",
-    "Stay": "To stay",
+    "Stay": "Stay",
     "Go_to_app": "Do you want to block the application in presentation mode? (It will no longer be possible to return to the backoffice without password)",
     "Warning": "Attention !"
   },
@@ -83,7 +83,7 @@
   "email": {
     "fail": "Error when sending",
     "fail_info": "Thank you try again later.",
-    "send": "To send",
+    "send": "Send",
     "success": "Successful sending!",
     "success_info": "Remember to look in spam.",
     "title": "Please enter your e-mail address to receive the wine file."
@@ -104,14 +104,14 @@
     "back": "Go back",
     "connexion": "connection",
     "no_account": "No account found with this email!",
-    "send": "To send",
+    "send": "Send",
     "success": "Recovery email sent!",
     "title": "Forgot password"
   },
   "home": {
     "back_to_bo": "Backoffice",
     "list": "Listing",
-    "map": "Menu"
+    "map": "Map"
   },
   "security": {
     "new_pass_hint": "",
@@ -155,13 +155,9 @@
     "sub_desc": "Manage your subscription on the application"
   },
   "range": {
-    "edit": {
-      "all_wines": "Wines available",
-      "all_wines_sub": "Add a wine to the range",
-      "range_wines": "Range wines",
-      "range_wines_sub": "Reordinate or delete a wine from the range"
-    },
     "list": {
+      "tooltip": "Select a range below to display only the wines of this range",
+      "set_active": "Activate the range",
       "active": "Visible range",
       "active_sub": "Only the wines of this range will be visible",
       "desactivate": "Deactivate the range",
@@ -174,6 +170,14 @@
       "subtitle": "Edit your wine ranges and choose a range to display",
       "title": "List of ranges",
       "wine_number": "Number of wines"
+    },
+    "edit": {
+      "remove_wine": "Remove this wine from the range",
+      "add_wine": "Add this wine to the range",
+      "all_wines": "Wines available",
+      "all_wines_sub": "Add a wine to the range",
+      "range_wines": "Range wines",
+      "range_wines_sub": "Reordinate or delete a wine from the range"
     }
   },
   "register": {
@@ -245,7 +249,7 @@
       "instant": "immediately",
       "instant_serve": "Serve",
       "next": "Next file",
-      "open": "To open",
+      "open": "Open",
       "previous": "Previous sheet",
       "price": "Price in",
       "recieve_mail": "Receive the file by email",
@@ -278,14 +282,14 @@
       "delete_pos": "Remove the position of the wine",
       "dish_name": "Dish",
       "dishes": "Food and wine pairings",
-      "display_map": "Card display on the sheet",
+      "display_map": "Map display on the sheet",
       "eye": "Eye",
       "fab": "Manufacturing",
       "flavour_name": "Aroma name",
       "infos": "Main information",
       "link_photo_360": "360 ° photo link",
-      "map": "Menu",
-      "map_appellation": "Name",
+      "map": "Map",
+      "map_appellation": "Appellation",
       "map_appellation_info": "The card will be displayed on the sheet and will show the selected appellation area for this wine.",
       "map_appellation_tooltip": "Displays the card with the highly enhanced wine area",
       "map_gps": "GPS coordinates",
@@ -297,7 +301,7 @@
       "max_temp": "maximum",
       "min_temp": "minimum",
       "minutes": "Minutes",
-      "mouth": "Blocked",
+      "mouth": "Mouth",
       "nose": "Nose",
       "photo_360_hint": "Structure:",
       "remove_dish_img": "Delete the image",
@@ -354,5 +358,20 @@
   "wines": "wines",
   "mini": "Mini",
   "magnum": "Magnum",
-  "jeroboam": "Jeroboam"
-} 
+  "jeroboam": "Jeroboam",
+  "user": {
+    "connected_with": "Connected with",
+    "parameters": "Parameters",
+    "logout": "Log out"
+  },
+  "menu": {
+    "display_wines": "Display wines",
+    "presentation": "Presentation",
+    "manage_wines": "Manage wines",
+    "wines_list": "Wine list",
+    "wines_archive": "Wine archives",
+    "wines_range": "Wine ranges",
+    "app_perso": "Personalization of the app",
+    "perso": "Personalization"
+  }
+}

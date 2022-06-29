@@ -155,13 +155,9 @@
     "sub_desc": "Gérez votre abonnement sur l'application"
   },
   "range": {
-    "edit": {
-      "all_wines": "Vins disponibles",
-      "all_wines_sub": "Ajoutez un vin dans la gamme",
-      "range_wines": "Vins de la gamme",
-      "range_wines_sub": "Réordonnez ou supprimer un vin de la gamme"
-    },
     "list": {
+      "tooltip": "Selectionnez une gamme ci-dessous pour afficher uniquement les vins de cette gamme",
+      "set_active": "Activer la gamme",
       "active": "Gamme visible",
       "active_sub": "Seul les vins de cette gamme seront visible",
       "desactivate": "Désactiver la gamme",
@@ -174,6 +170,14 @@
       "subtitle": "Éditez vos gammes de vins et choisissez une gamme à afficher",
       "title": "Liste des gammes",
       "wine_number": "Nombre de vins"
+    },
+    "edit": {
+      "remove_wine": "Retirer ce vin de la gamme",
+      "add_wine": "Ajouter ce vin dans la gamme",
+      "all_wines": "Vins disponibles",
+      "all_wines_sub": "Ajoutez un vin dans la gamme",
+      "range_wines": "Vins de la gamme",
+      "range_wines_sub": "Réordonnez ou supprimer un vin de la gamme"
     }
   },
   "register": {
@@ -354,5 +358,20 @@
   "wines": "vins",
   "mini": "Mini",
   "magnum": "Magnum",
-  "jeroboam": "Jeroboam"
+  "jeroboam": "Jeroboam",
+  "user": {
+    "connected_with": "Connecté avec",
+    "parameters": "Paramètres",
+    "logout": "Déconnexion"
+  },
+  "menu": {
+    "display_wines": "Afficher les vins",
+    "presentation": "Présentation",
+    "manage_wines": "Gestion des vins",
+    "wines_list": "Liste des vins",
+    "wines_archive": "Archives des vins",
+    "wines_range": "Gammes des vins",
+    "app_perso": "Personnalisation de l'app",
+    "perso": "Personnalisations"
+  }
 }
